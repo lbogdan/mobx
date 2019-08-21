@@ -1,4 +1,3 @@
 {
-  "buildCommand": "small-build",
-  "haha": "false"
+  "buildCommand": "small-build"
 }
