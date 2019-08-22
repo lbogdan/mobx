@@ -1,4 +1,4 @@
 {
   "buildCommand": "small-build",
-  "sandboxes": ["new", "vanilla"]
+  "sandboxes": ["new", "vanilla", "preact"]
 }
