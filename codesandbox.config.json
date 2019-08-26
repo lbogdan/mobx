@@ -1,0 +1,4 @@
+{
+  "buildCommand": "small-build",
+  "sandboxes": ["github/CompuIves/new-sandbox"]
+}
